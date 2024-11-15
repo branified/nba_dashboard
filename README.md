@@ -24,3 +24,7 @@ To run this app, you'll need Python 3 and the packages listed in `requirements.t
     ```
 
 4. Open your browser and go to `http://127.0.0.1:8050` to view the app.
+
+## Results
+
+![image](https://github.com/user-attachments/assets/4c1e1cdf-5b79-4bed-a446-bc685a004eb9)
